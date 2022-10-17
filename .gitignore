@@ -6,6 +6,7 @@ Backup/*
 *.zip
 *.exe
 *.foo
+*.7z
 
 # Audio Files
 *.mp3
