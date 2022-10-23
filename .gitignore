@@ -24,6 +24,11 @@ Music/*
 # Compiled Sequences
 *.fseq
 
+# Desktop.ini and Customized Folder Icons
+# desktop.ini
+# */desktop.ini
+# */folder.ico
+
 # Folders
 Downloads/*
 ./Downloads/*
@@ -31,9 +36,6 @@ Imports/*
 ./Import/*
 RenderCache/*
 ./RenderCache/*
-desktop.ini
-*/desktop.ini
-*/folder.ico
 PreviewVids/*
 ./PreviewVids/*
 Videos/*
