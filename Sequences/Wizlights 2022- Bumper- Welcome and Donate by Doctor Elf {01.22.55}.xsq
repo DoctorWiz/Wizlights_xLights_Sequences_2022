@@ -204,8 +204,7 @@
     <Element collapsed="0" type="model" name="Fence Swags 15 {FR}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {C} (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Sorcerers Apprentice (150)" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award (158)" visible="1"/>
+    <Element collapsed="0" type="model" name="Sorcerers Apprentice" visible="1"/>
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
     <Element collapsed="0" type="model" name="aGround" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Driveway (RGB)" visible="1"/>
@@ -1955,14 +1954,11 @@
     <Element type="model" name="Strobes- 5mm- Bushes {C} (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Sorcerers Apprentice (150)">
+    <Element type="model" name="Sorcerers Apprentice">
       <EffectLayer>
         <Effect ref="7" name="Marquee" startTime="1500" endTime="21000" palette="14"/>
         <Effect ref="12" name="On" id="1" startTime="21000" endTime="81500" palette="15"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Major Award (158)">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Wheel of Dharma">
       <EffectLayer/>

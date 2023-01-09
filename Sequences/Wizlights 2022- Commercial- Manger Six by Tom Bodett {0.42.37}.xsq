@@ -267,8 +267,6 @@
     <Element collapsed="0" type="model" name="Fence Swags 15 {FR}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {C} (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Sorcerers Apprentice (150)" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award (158)" visible="1"/>
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
     <Element collapsed="0" type="model" name="aGround" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Driveway (RGB)" visible="1"/>
@@ -2322,12 +2320,6 @@
       </SubModelEffectLayer>
     </Element>
     <Element type="model" name="Strobes- 5mm- Bushes {C} (W)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Sorcerers Apprentice (150)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Major Award (158)">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Wheel of Dharma">

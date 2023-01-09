@@ -215,8 +215,7 @@
     <Element collapsed="0" type="model" name="Fence Swags 15 {FR}" visible="1"/>
     <Element collapsed="0" type="model" name="Tree- Singing Female {L}" visible="1"/>
     <Element collapsed="0" type="model" name="Strobes- 5mm- Bushes {C} (W)" visible="1"/>
-    <Element collapsed="0" type="model" name="Sorcerers Apprentice (150)" visible="1"/>
-    <Element collapsed="0" type="model" name="Major Award (158)" visible="1"/>
+    <Element collapsed="0" type="model" name="Sorcerers Apprentice" visible="1"/>
     <Element collapsed="0" type="model" name="Wheel of Dharma" visible="1"/>
     <Element collapsed="0" type="model" name="aGround" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Driveway (RGB)" visible="1"/>
@@ -966,7 +965,7 @@
     <Element type="model" name="Strobes- 5mm- Bushes {C} (W)">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Sorcerers Apprentice (150)">
+    <Element type="model" name="Sorcerers Apprentice">
       <EffectLayer>
         <Effect ref="14" name="Pinwheel" startTime="300" endTime="2900" palette="5"/>
         <Effect ref="15" name="Pinwheel" id="1" startTime="2900" endTime="5300" palette="7"/>
@@ -974,9 +973,6 @@
         <Effect ref="17" name="Pinwheel" id="3" startTime="7400" endTime="9100" palette="8"/>
         <Effect ref="18" name="Pinwheel" id="4" startTime="9100" endTime="11800" palette="9"/>
       </EffectLayer>
-    </Element>
-    <Element type="model" name="Major Award (158)">
-      <EffectLayer/>
     </Element>
     <Element type="model" name="Wheel of Dharma">
       <EffectLayer/>

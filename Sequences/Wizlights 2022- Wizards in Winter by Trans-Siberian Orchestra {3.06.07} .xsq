@@ -364,8 +364,7 @@
     <Element collapsed="0" type="model" name="Fence Swags 19 {DRB}" visible="0"/>
     <Element collapsed="0" type="model" name="Fence Swags 20 {RF}" visible="0"/>
     <Element collapsed="0" type="model" name="Fence Swags 21 {RB}" visible="0"/>
-    <Element collapsed="0" type="model" name="Major Award (158)" visible="0"/>
-    <Element collapsed="0" type="model" name="Sorcerers Apprentice (150)" visible="1"/>
+    <Element collapsed="0" type="model" name="Sorcerers Apprentice" visible="1"/>
     <Element collapsed="0" type="model" name="Snowflake Arrow" visible="0"/>
     <Element collapsed="0" type="model" name="Snowflake Diamond" visible="0"/>
     <Element collapsed="0" type="model" name="Snowflake Three-Prong" visible="0"/>
@@ -14851,10 +14850,7 @@
     <Element type="model" name="Fence Swags 21 {RB}">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Major Award (158)">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Sorcerers Apprentice (150)">
+    <Element type="model" name="Sorcerers Apprentice">
       <EffectLayer>
         <Effect ref="41" name="Bars" startTime="1825" endTime="47125" palette="117"/>
         <Effect ref="42" name="Bars" id="1" startTime="47125" endTime="87550" palette="117"/>
