@@ -250,7 +250,6 @@
     <Element collapsed="0" type="model" name="Snow Group" visible="1"/>
     <Element collapsed="0" type="model" name="Oddballs Group" visible="1"/>
     <Element collapsed="0" type="model" name="Lasers Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Pixels Eaves Group" visible="1"/>
     <Element collapsed="0" type="model" name="Santa in the Window" visible="1"/>
     <Element collapsed="0" type="model" name="CandyCane22-G2" visible="1"/>
     <Element collapsed="0" type="model" name="CandyCane21-R1" visible="1"/>
@@ -7033,9 +7032,6 @@
     <Element type="model" name="Lasers Group">
       <EffectLayer/>
     </Element>
-    <Element type="model" name="Pixels Eaves Group">
-      <EffectLayer/>
-    </Element>
     <Element type="model" name="Santa in the Window">
       <EffectLayer/>
     </Element>
@@ -7112,7 +7108,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="123125" endTime="123200" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="123200" endTime="123375" palette="2"/>
         <Effect ref="4" name="On" id="5" startTime="125475" endTime="125550" palette="2"/>
@@ -7123,7 +7119,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="123125" endTime="123200" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="123200" endTime="123375" palette="2"/>
         <Effect ref="4" name="On" id="5" startTime="125475" endTime="125550" palette="2"/>
@@ -7854,7 +7850,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="6850" endTime="6875" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="6875" endTime="7075" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="9250" endTime="9275" palette="2"/>
@@ -7981,14 +7977,14 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree- Tomato B2.2 (W)">
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="7450" endTime="7475" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="7475" endTime="7675" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="8250" endTime="8275" palette="2"/>
@@ -8235,7 +8231,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="7250" endTime="7275" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="7275" endTime="7475" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="7650" endTime="7675" palette="2"/>
@@ -8482,7 +8478,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="7050" endTime="7075" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="7075" endTime="7275" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="7850" endTime="7875" palette="2"/>
@@ -8729,7 +8725,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="6850" endTime="6875" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="6875" endTime="7075" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="9250" endTime="9275" palette="2"/>
@@ -8856,7 +8852,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="6650" endTime="6675" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="6675" endTime="6875" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="9050" endTime="9075" palette="2"/>
@@ -9588,7 +9584,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="5" name="On" id="3" startTime="30500" endTime="30900" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="32100" endTime="32525" palette="2"/>
         <Effect ref="5" name="On" id="5" startTime="33725" endTime="34025" palette="2"/>
@@ -11756,7 +11752,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="46150" endTime="46325" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="46325" endTime="46400" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="48550" endTime="48725" palette="2"/>
@@ -11857,7 +11853,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="123000" endTime="123175" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="123175" endTime="123250" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="125350" endTime="125525" palette="2"/>
@@ -11868,7 +11864,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="123000" endTime="123175" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="123175" endTime="123250" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="125350" endTime="125525" palette="2"/>
@@ -11879,7 +11875,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="123125" endTime="123200" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="123200" endTime="123375" palette="2"/>
         <Effect ref="4" name="On" id="5" startTime="125475" endTime="125550" palette="2"/>
@@ -11890,7 +11886,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="123125" endTime="123200" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="123200" endTime="123375" palette="2"/>
         <Effect ref="4" name="On" id="5" startTime="125475" endTime="125550" palette="2"/>
@@ -11901,7 +11897,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="6250" endTime="6275" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="6275" endTime="6475" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="8650" endTime="8675" palette="2"/>
@@ -12030,7 +12026,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
       </EffectLayer>
     </Element>
     <Element type="model" name="Tree- Tomato B1.1 {L} (V)">
@@ -12875,7 +12871,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="9250" endTime="9450" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="9450" endTime="11050" palette="2"/>
         <Effect ref="5" name="On" id="5" startTime="11050" endTime="11250" palette="2"/>
@@ -12933,7 +12929,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="8350" endTime="8750" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="10950" endTime="11250" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="16100" endTime="16650" palette="2"/>
@@ -16915,7 +16911,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="10925" endTime="11700" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="11700" endTime="147325" palette="2"/>
         <Effect ref="5" name="On" id="5" startTime="147325" endTime="148350" palette="2"/>
@@ -16925,7 +16921,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="11700" endTime="12400" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="12400" endTime="147050" palette="2"/>
         <Effect ref="5" name="On" id="5" startTime="147050" endTime="147625" palette="2"/>
@@ -16935,7 +16931,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="12400" endTime="13100" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="13100" endTime="146750" palette="2"/>
         <Effect ref="5" name="On" id="5" startTime="146750" endTime="147325" palette="2"/>
@@ -17367,7 +17363,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="4" name="On" id="3" startTime="6000" endTime="12450" palette="2"/>
         <Effect ref="3" name="On" id="4" startTime="12450" endTime="32100" palette="2"/>
         <Effect ref="4" name="On" id="5" startTime="32100" endTime="32525" palette="2"/>
@@ -21563,7 +21559,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="123000" endTime="123175" palette="2"/>
         <Effect ref="5" name="On" id="4" startTime="123175" endTime="123250" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="125350" endTime="125525" palette="2"/>
@@ -21760,7 +21756,7 @@
       <EffectLayer>
         <Effect ref="3" name="On" startTime="2000" endTime="2500" palette="1"/>
         <Effect ref="3" name="On" id="1" startTime="3000" endTime="3500" palette="1"/>
-        <Effect ref="3" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="1"/>
+        <Effect ref="3" name="On" id="2" startTime="4000" endTime="4500" palette="1"/>
         <Effect ref="3" name="On" id="3" startTime="33050" endTime="35000" palette="2"/>
         <Effect ref="15" name="On" id="4" startTime="35000" endTime="36375" palette="2"/>
         <Effect ref="3" name="On" id="5" startTime="36375" endTime="37450" palette="2"/>

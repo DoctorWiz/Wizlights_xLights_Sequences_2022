@@ -130,7 +130,6 @@
     <Element collapsed="0" type="model" name="Trees- Tomato Row A  B By Color" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies Spinny Group (M)" visible="1"/>
     <Element collapsed="0" type="model" name="Lasers Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Pixels Eaves Group" visible="1"/>
     <Element collapsed="0" type="model" name="Candy Canes Seq Group (RGRG)" visible="1"/>
     <Element collapsed="0" type="model" name="xCtlr I- House Front and Roof" visible="1"/>
     <Element collapsed="0" type="model" name="xCtlr B- Tomato Trees Row B" visible="1"/>
@@ -1654,9 +1653,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Lasers Group">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Pixels Eaves Group">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Candy Canes Seq Group (RGRG)">
@@ -3338,7 +3334,7 @@
       <EffectLayer>
         <Effect ref="1" name="On" startTime="2000" endTime="2500" palette="22"/>
         <Effect ref="1" name="On" id="1" startTime="3000" endTime="3500" palette="22"/>
-        <Effect ref="1" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="22"/>
+        <Effect ref="1" name="On" id="2" startTime="4000" endTime="4500" palette="22"/>
         <Effect ref="16" name="On" id="3" startTime="8900" endTime="10900" palette="0"/>
         <Effect ref="1" name="On" id="4" startTime="10900" endTime="66000" palette="0"/>
         <Effect ref="1" name="On" id="5" startTime="66000" endTime="87400" palette="0"/>
@@ -3349,7 +3345,7 @@
       <EffectLayer>
         <Effect ref="1" name="On" startTime="2000" endTime="2500" palette="22"/>
         <Effect ref="1" name="On" id="1" startTime="3000" endTime="3500" palette="22"/>
-        <Effect ref="1" name="On" selected="1" id="2" startTime="4000" endTime="4500" palette="22"/>
+        <Effect ref="1" name="On" id="2" startTime="4000" endTime="4500" palette="22"/>
         <Effect ref="16" name="On" id="3" startTime="11400" endTime="13400" palette="0"/>
         <Effect ref="1" name="On" id="4" startTime="13400" endTime="66000" palette="0"/>
         <Effect ref="1" name="On" id="5" startTime="66000" endTime="87400" palette="0"/>

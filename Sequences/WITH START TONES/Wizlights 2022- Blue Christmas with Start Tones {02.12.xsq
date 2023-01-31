@@ -228,7 +228,6 @@
     <Element collapsed="0" type="model" name="Disco Balls (M)" visible="1"/>
     <Element collapsed="0" type="model" name="Oddballs Group" visible="1"/>
     <Element collapsed="0" type="model" name="Lasers Group" visible="1"/>
-    <Element collapsed="0" type="model" name="Pixels Eaves Group" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Driveway (RGB)" visible="1"/>
     <Element collapsed="0" type="model" name="Swirlies- Pine (GO)" visible="1"/>
     <Element collapsed="0" type="model" name="Bushes 2.3 {L} Low (O)" visible="1"/>
@@ -3389,9 +3388,6 @@
       <EffectLayer/>
     </Element>
     <Element type="model" name="Lasers Group">
-      <EffectLayer/>
-    </Element>
-    <Element type="model" name="Pixels Eaves Group">
       <EffectLayer/>
     </Element>
     <Element type="model" name="Swirlies- Driveway (RGB)">
@@ -6557,7 +6553,7 @@
     <Element type="model" name="Tree- Tomato A1.4 {L} (W)">
       <EffectLayer>
         <Effect ref="0" name="On" startTime="2000" endTime="2500" palette="20"/>
-        <Effect ref="0" name="On" selected="1" id="1" startTime="3000" endTime="3500" palette="20"/>
+        <Effect ref="0" name="On" id="1" startTime="3000" endTime="3500" palette="20"/>
         <Effect ref="0" name="On" id="2" startTime="4000" endTime="4500" palette="20"/>
         <Effect ref="10" name="On" id="3" startTime="6550" endTime="6850" palette="10"/>
         <Effect ref="0" name="On" id="4" startTime="6850" endTime="8650" palette="10"/>
